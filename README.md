@@ -4,7 +4,7 @@ This repo contains the official **PyTorch** code and evaluation results for LIFB
 
 ## Introduction
 
-![overview3-1](README.assets/overview3-1.png)
+![overview3-1](assets/overview3-1.png)
 
 
 ## Usage
