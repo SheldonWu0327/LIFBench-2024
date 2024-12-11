@@ -1,5 +1,5 @@
 # You can find all the outputs in ./data/outputs
-
+# Paths of model weights.
 model_names=(
   "./models/Qwen2.5-7B-Instruct/" \
   "./models/Qwen2.5-7B/" \
