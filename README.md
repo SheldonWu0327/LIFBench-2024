@@ -37,7 +37,7 @@ For open-source models, specify the model weights path in `./scripts/Inference.s
 Due to differences in tokenizers and model architectures, there may be compatibility issues when evaluating models beyond the provided baselines. Please feel free to open an issue if you encounter any problems.
 
 ```bash
-bash ./scripts/Inference_api.sh
+bash ./scripts/Inference.sh
 ```
 
 For closed-source models, please specify the model name in `./scripts/Inference_api.sh` and provide the API_KEY in `./evaluation/LLMApi`.
@@ -45,7 +45,7 @@ For closed-source models, please specify the model name in `./scripts/Inference_
 We provide testing support for OpenAI models. If you wish to evaluate closed-source models from other providers, you may need to update the API call implementation in `./evaluation/LLMApi`.
 
 ```bash
-bash ./scripts/Inference.sh
+bash ./scripts/Inference_api.sh
 ```
 
 
