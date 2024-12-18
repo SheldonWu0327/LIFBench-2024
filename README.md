@@ -54,7 +54,7 @@ Model outputs will be stored in the `./data/outputs`.
 ### Evaluation
 
 ```bash
-bash ./scripts/Inference_api.sh
+bash ./scripts/evaluate.sh
 ```
 
 By default, results will be saved in `/data/results`.
