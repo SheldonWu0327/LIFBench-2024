@@ -1,6 +1,6 @@
 # LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios (ACL 2025)
 
-This repo contains the official **PyTorch** code and evaluation results for LIFBench.
+This repo contains the official **PyTorch** code and evaluation results for [LIFBench](https://aclanthology.org/2025.acl-long.803/).
 
 ## Introduction
 
@@ -58,4 +58,5 @@ bash ./scripts/evaluate.sh
 ```
 
 By default, results will be saved in `/data/results`.
+
 
